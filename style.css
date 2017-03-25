@@ -6,8 +6,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 0px;
 }
-
 .board {
   width: 375px;
   height: 375px;
